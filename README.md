@@ -2,8 +2,7 @@
 
 I am a 4th year Bachelor of Advanced Computing student, majoring in Software Development at The University of Sydney. 
 
-- 🔭 I’m doing work experience at SSW.
-- 🌱 I’m currently learning Angular
+- 🔭 I’m a Software Developer at SSW
 - 📫 How to reach me: ed@kranz.au, or eddiekranz@ssw.com.au
 - 😄 Pronouns: he/him
 
