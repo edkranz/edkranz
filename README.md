@@ -1,8 +1,7 @@
 ## Hi there, I'm Eddie 👋
 
-I am a 4th year Bachelor of Advanced Computing student, majoring in Software Development at The University of Sydney. 
-
 - 🔭 I’m a Software Developer at SSW
+- 🎓 I hold a Bachelor of Advanced Computing (Software Development) from The University of Sydney!
 - 📫 How to reach me: ed@kranz.au, or eddiekranz@ssw.com.au
 - 😄 Pronouns: he/him
 
