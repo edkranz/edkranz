@@ -1,5 +1,7 @@
 <h1 align="center">Hi there, I'm Eddie 👋</h1>
-<h3 align="center">Software Developer at <a href="https://www.ssw.com.au">SSW</a></h3>
+<h3 align="center">
+  SSW Software Engineer I
+</h3>
 <p align="center">
   <b>Specializing in AI Solution Architecture, RAG, and the .NET Ecosystem</b>
 </p>
@@ -20,12 +22,11 @@
 
 ### 👨‍💻 About Me
 
-I am a developer who loves building intelligent systems that solve real business problems. Currently, I'm delivering award-winning AI solutions using **Azure OpenAI** and **RAG architectures**.
+I am a developer who loves building intelligent systems that solve real business problems.
 
 - 🔭 **I’m currently working on:** Zero-hallucination AI Chatbots & Intelligent Payroll Assistants.
 - 🎓 **Education:** Bachelor of Advanced Computing (Software Development) @ USYD.
-  - *Thesis: "Portal Redirection in Virtual Reality using Impossible Spaces"*
-- 🛠 **I build with:** .NET, Azure, Semantic Kernel, and Modern Frontend (Angular/React).
+- 🛠 **I build with:** .NET, Azure, Agent Framework, and Modern Frontend (Angular/React).
 - ⚡ **Fun facts:** When I'm not coding, I'm wrenching on motorcycles 🏍️, bouldering 🧗‍♂️, or woodworking 🪚.
 
 ---
@@ -53,11 +54,4 @@ I am a developer who loves building intelligent systems that solve real business
 <img src="https://img.shields.io/badge/TypeScript-333333?style=for-the-badge&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/TinaCMS-333333?style=for-the-badge&logo=tinacms&logoColor=white" />
 
----
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=edkranz&show_icons=true&count_private=true&bg_color=333333&title_color=CC4141&text_color=AAAAAA&icon_color=CC4141&border_color=CC4141" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=edkranz&layout=compact&bg_color=333333&title_color=CC4141&text_color=AAAAAA&icon_color=CC4141&border_color=CC4141" height="180" alt="languages graph" />
-</div>
